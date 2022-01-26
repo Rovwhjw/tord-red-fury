@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				517,
+				-10
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "tordbot idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				610,
+				143
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "tordbot up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				599,
+				-60
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "tordbot down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				673,
+				-41
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "tordbot left"
+		},
+		{
+			"offsets": [
+				782,
+				-61
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "tordbot right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/tommonster",
+	"position": [
+		100,
+		-930
+	],
+	"healthicon": "tommonster",
+	"flip_x": false,
+	"healthbar_colors": [
+		51,
+		39,
+		49
+	],
+	"camera_position": [
+		650,
+		-320
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
