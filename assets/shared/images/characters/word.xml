@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="tord_assets.png">
+	<!-- Created with Adobe Animate version 21.0.4.39603 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="tord down0000" x="467" y="366" width="232" height="359"/>
+	<SubTexture name="tord idle0000" x="718" y="0" width="211" height="365"/>
+	<SubTexture name="tord left0000" x="467" y="0" width="232" height="359"/>
+	<SubTexture name="tord right0000" x="241" y="0" width="227" height="382"/>
+	<SubTexture name="tord up0000" x="0" y="0" width="226" height="385"/>
+</TextureAtlas>

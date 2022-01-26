@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Tordbot_RE.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="tordbot down instance 10000" x="1371" y="0" width="684" height="1105"/>
+	<SubTexture name="tordbot idle instance 10000" x="685" y="0" width="684" height="1105"/>
+	<SubTexture name="tordbot left instance 10000" x="0" y="1073" width="684" height="1105"/>
+	<SubTexture name="tordbot right instance 10000" x="1371" y="1073" width="684" height="1105"/>
+	<SubTexture name="tordbot up instance 10000" x="0" y="0" width="685" height="1105"/>
+</TextureAtlas>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="tordbot_assets.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="tordbot down0000" x="0" y="2340" width="820" height="930"/>
+	<SubTexture name="tordbot down0001" x="2500" y="1594" width="825" height="892"/>
+	<SubTexture name="tordbot idle0000" x="0" y="0" width="661" height="824"/>
+	<SubTexture name="tordbot idle0001" x="665" y="0" width="659" height="842"/>
+	<SubTexture name="tordbot idle0002" x="1333" y="0" width="659" height="842"/>
+	<SubTexture name="tordbot left0000" x="1654" y="1621" width="832" height="825"/>
+	<SubTexture name="tordbot left0001" x="736" y="846" width="832" height="840"/>
+	<SubTexture name="tordbot left0002" x="2703" y="0" width="716" height="840"/>
+	<SubTexture name="tordbot right0000" x="0" y="830" width="728" height="842"/>
+	<SubTexture name="tordbot right0001" x="0" y="830" width="728" height="842"/>
+	<SubTexture name="tordbot right0002" x="1982" y="805" width="719" height="792"/>
+	<SubTexture name="tordbot right0003" xx="1982" y="805" width="719" height="792"/>
+	<SubTexture name="tordbot right0004" x="1982" y="805" width="719" height="792"/>
+	<SubTexture name="tordbot right0005" xx="1982" y="805" width="719" height="792"/>
+	<SubTexture name="tordbot right0006" x="1995" y="0" width="702" height="792"/>
+	<SubTexture name="tordbot up0000" x="822" y="2439" width="738" height="921"/>
+</TextureAtlas>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sunshinetord.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="tord crying instance 10000" x="0" y="0" width="234" height="447"/>
+	<SubTexture name="tord crying instance 10001" x="234" y="0" width="234" height="447"/>
+	<SubTexture name="tord crying instance 10002" x="468" y="0" width="234" height="447"/>
+	<SubTexture name="tord crying instance 10003" x="702" y="0" width="234" height="447"/>
+	<SubTexture name="tord crying instance 10004" x="936" y="0" width="234" height="447"/>
+	<SubTexture name="tord crying instance 10005" x="1170" y="0" width="234" height="447"/>
+	<SubTexture name="tord crying instance 10006" x="1404" y="0" width="234" height="447"/>
+	<SubTexture name="tord crying instance 10007" x="1638" y="0" width="234" height="447"/>
+	<SubTexture name="tord crying instance 10008" x="0" y="447" width="234" height="447"/>
+	<SubTexture name="tord crying instance 10009" x="234" y="447" width="234" height="447"/>
+	<SubTexture name="tord crying instance 10010" x="468" y="447" width="234" height="447"/>
+	<SubTexture name="tord crying instance 10011" x="702" y="447" width="234" height="447"/>
+	<SubTexture name="tord crying instance 10012" x="936" y="447" width="234" height="447"/>
+	<SubTexture name="tord crying instance 10013" x="1170" y="447" width="234" height="447"/>
+	<SubTexture name="tord crying instance 10014" x="1404" y="447" width="234" height="447"/>
+</TextureAtlas>

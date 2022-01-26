@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="tord_angry.png">
+	<!-- Created with Adobe Animate version 21.0.4.39603 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="tord down angry0000" x="1091" y="1091" width="336" height="672"/>
+	<SubTexture name="tord fuckthis0000" x="2433" y="10" width="349" height="659"/>
+	<SubTexture name="tord idle angry0000" x="1067" y="675" width="332" height="688"/>
+	<SubTexture name="tord left angry0000" x="729" y="0" width="342" height="703"/>
+	<SubTexture name="tord right angry0000" x="348" y="0" width="365" height="672"/>
+	<SubTexture name="tord up angry0000" x="0" y="6" width="342" height="703"/>
+</TextureAtlas>

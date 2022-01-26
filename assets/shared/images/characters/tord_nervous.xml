@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="tord_nervous.png">
+	<!-- Created with Adobe Animate version 21.0.4.39603 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="tord crap0000" x="10" y="10" width="343" height="659" frameX="-15" frameY="-11" frameWidth="369" frameHeight="670"/>
+	<SubTexture name="tord crap0001" x="363" y="10" width="358" height="665" frameX="0" frameY="-5" frameWidth="369" frameHeight="670"/>
+	<SubTexture name="tord crap0002" x="731" y="10" width="331" height="664" frameX="-33" frameY="-6" frameWidth="369" frameHeight="670"/>
+	<SubTexture name="tord crap0003" x="1072" y="10" width="307" height="666" frameX="-57" frameY="-4" frameWidth="369" frameHeight="670"/>
+	<SubTexture name="tord crap0004" x="1389" y="10" width="317" height="669" frameX="-51" frameY="-1" frameWidth="369" frameHeight="670"/>
+	<SubTexture name="tord crap0005" x="1716" y="10" width="311" height="669" frameX="-57" frameY="-1" frameWidth="369" frameHeight="670"/>
+	<SubTexture name="tord crap0006" x="2037" y="10" width="312" height="670" frameX="-57" frameY="0" frameWidth="369" frameHeight="670"/>
+	<SubTexture name="tord crap0007" x="2359" y="10" width="316" height="670" frameX="-53" frameY="0" frameWidth="369" frameHeight="670"/>
+	<SubTexture name="tord crap0008" x="2359" y="10" width="316" height="670" frameX="-53" frameY="0" frameWidth="369" frameHeight="670"/>
+	<SubTexture name="tord crap0009" x="2359" y="10" width="316" height="670" frameX="-53" frameY="0" frameWidth="369" frameHeight="670"/>
+	<SubTexture name="tord crap0010" x="2359" y="10" width="316" height="670" frameX="-53" frameY="0" frameWidth="369" frameHeight="670"/>
+	<SubTexture name="tord crap0011" x="2359" y="10" width="316" height="670" frameX="-53" frameY="0" frameWidth="369" frameHeight="670"/>
+	<SubTexture name="tord crap0012" x="2359" y="10" width="316" height="670" frameX="-53" frameY="0" frameWidth="369" frameHeight="670"/>
+	<SubTexture name="tord crap0013" x="2359" y="10" width="316" height="670" frameX="-53" frameY="0" frameWidth="369" frameHeight="670"/>
+	<SubTexture name="tord crap0014" x="2359" y="10" width="316" height="670" frameX="-53" frameY="0" frameWidth="369" frameHeight="670"/>
+	<SubTexture name="tord down nervous0000" x="2685" y="10" width="349" height="643" frameX="0" frameY="-7" frameWidth="349" frameHeight="650"/>
+	<SubTexture name="tord down nervous0001" x="2685" y="10" width="349" height="643" frameX="0" frameY="-7" frameWidth="349" frameHeight="650"/>
+	<SubTexture name="tord down nervous0002" x="3044" y="10" width="331" height="650" frameX="-13" frameY="0" frameWidth="349" frameHeight="650"/>
+	<SubTexture name="tord down nervous0003" x="3044" y="10" width="331" height="650" frameX="-13" frameY="0" frameWidth="349" frameHeight="650"/>
+	<SubTexture name="tord down nervous0004" x="3044" y="10" width="331" height="650" frameX="-13" frameY="0" frameWidth="349" frameHeight="650"/>
+	<SubTexture name="tord down nervous0005" x="3044" y="10" width="331" height="650" frameX="-13" frameY="0" frameWidth="349" frameHeight="650"/>
+	<SubTexture name="tord down nervous0006" x="3044" y="10" width="331" height="650" frameX="-13" frameY="0" frameWidth="349" frameHeight="650"/>
+	<SubTexture name="tord down nervous0007" x="3044" y="10" width="331" height="650" frameX="-13" frameY="0" frameWidth="349" frameHeight="650"/>
+	<SubTexture name="tord down nervous0008" x="3044" y="10" width="331" height="650" frameX="-13" frameY="0" frameWidth="349" frameHeight="650"/>
+	<SubTexture name="tord down nervous0009" x="3044" y="10" width="331" height="650" frameX="-13" frameY="0" frameWidth="349" frameHeight="650"/>
+	<SubTexture name="tord down nervous0010" x="3044" y="10" width="331" height="650" frameX="-13" frameY="0" frameWidth="349" frameHeight="650"/>
+	<SubTexture name="tord down nervous0011" x="3044" y="10" width="331" height="650" frameX="-13" frameY="0" frameWidth="349" frameHeight="650"/>
+	<SubTexture name="tord down nervous0012" x="3044" y="10" width="331" height="650" frameX="-13" frameY="0" frameWidth="349" frameHeight="650"/>
+	<SubTexture name="tord down nervous0013" x="3044" y="10" width="331" height="650" frameX="-13" frameY="0" frameWidth="349" frameHeight="650"/>
+	<SubTexture name="tord down nervous0014" x="3044" y="10" width="331" height="650" frameX="-13" frameY="0" frameWidth="349" frameHeight="650"/>
+	<SubTexture name="tord idle nervous0000" x="3385" y="10" width="344" height="664" frameX="-4" frameY="-5" frameWidth="359" frameHeight="669"/>
+	<SubTexture name="tord idle nervous0001" x="3385" y="10" width="344" height="664" frameX="-4" frameY="-5" frameWidth="359" frameHeight="669"/>
+	<SubTexture name="tord idle nervous0002" x="3739" y="10" width="341" height="656" frameX="0" frameY="-13" frameWidth="359" frameHeight="669"/>
+	<SubTexture name="tord idle nervous0003" x="3739" y="10" width="341" height="656" frameX="0" frameY="-13" frameWidth="359" frameHeight="669"/>
+	<SubTexture name="tord idle nervous0004" x="10" y="690" width="356" height="656" frameX="-3" frameY="-13" frameWidth="359" frameHeight="669"/>
+	<SubTexture name="tord idle nervous0005" x="376" y="690" width="351" height="660" frameX="-7" frameY="-9" frameWidth="359" frameHeight="669"/>
+	<SubTexture name="tord idle nervous0006" x="376" y="690" width="351" height="660" frameX="-7" frameY="-9" frameWidth="359" frameHeight="669"/>
+	<SubTexture name="tord idle nervous0007" x="737" y="690" width="339" height="669" frameX="-10" frameY="0" frameWidth="359" frameHeight="669"/>
+	<SubTexture name="tord idle nervous0008" x="737" y="690" width="339" height="669" frameX="-10" frameY="0" frameWidth="359" frameHeight="669"/>
+	<SubTexture name="tord idle nervous0009" x="1086" y="690" width="345" height="668" frameX="-8" frameY="-1" frameWidth="359" frameHeight="669"/>
+	<SubTexture name="tord idle nervous0010" x="1086" y="690" width="345" height="668" frameX="-8" frameY="-1" frameWidth="359" frameHeight="669"/>
+	<SubTexture name="tord idle nervous0011" x="1086" y="690" width="345" height="668" frameX="-8" frameY="-1" frameWidth="359" frameHeight="669"/>
+	<SubTexture name="tord idle nervous0012" x="1086" y="690" width="345" height="668" frameX="-8" frameY="-1" frameWidth="359" frameHeight="669"/>
+	<SubTexture name="tord idle nervous0013" x="1086" y="690" width="345" height="668" frameX="-8" frameY="-1" frameWidth="359" frameHeight="669"/>
+	<SubTexture name="tord idle nervous0014" x="1086" y="690" width="345" height="668" frameX="-8" frameY="-1" frameWidth="359" frameHeight="669"/>
+	<SubTexture name="tord left nervous0000" x="1441" y="690" width="337" height="652" frameX="0" frameY="-1" frameWidth="349" frameHeight="653"/>
+	<SubTexture name="tord left nervous0001" x="1441" y="690" width="337" height="652" frameX="0" frameY="-1" frameWidth="349" frameHeight="653"/>
+	<SubTexture name="tord left nervous0002" x="1788" y="690" width="339" height="653" frameX="-10" frameY="0" frameWidth="349" frameHeight="653"/>
+	<SubTexture name="tord left nervous0003" x="1788" y="690" width="339" height="653" frameX="-10" frameY="0" frameWidth="349" frameHeight="653"/>
+	<SubTexture name="tord left nervous0004" x="1788" y="690" width="339" height="653" frameX="-10" frameY="0" frameWidth="349" frameHeight="653"/>
+	<SubTexture name="tord left nervous0005" x="1788" y="690" width="339" height="653" frameX="-10" frameY="0" frameWidth="349" frameHeight="653"/>
+	<SubTexture name="tord left nervous0006" x="1788" y="690" width="339" height="653" frameX="-10" frameY="0" frameWidth="349" frameHeight="653"/>
+	<SubTexture name="tord left nervous0007" x="1788" y="690" width="339" height="653" frameX="-10" frameY="0" frameWidth="349" frameHeight="653"/>
+	<SubTexture name="tord left nervous0008" x="1788" y="690" width="339" height="653" frameX="-10" frameY="0" frameWidth="349" frameHeight="653"/>
+	<SubTexture name="tord left nervous0009" x="1788" y="690" width="339" height="653" frameX="-10" frameY="0" frameWidth="349" frameHeight="653"/>
+	<SubTexture name="tord right nervous0000" x="2137" y="690" width="378" height="655" frameX="-4" frameY="-3" frameWidth="382" frameHeight="658"/>
+	<SubTexture name="tord right nervous0001" x="2137" y="690" width="378" height="655" frameX="-4" frameY="-3" frameWidth="382" frameHeight="658"/>
+	<SubTexture name="tord right nervous0002" x="2525" y="690" width="375" height="658" frameX="0" frameY="0" frameWidth="382" frameHeight="658"/>
+	<SubTexture name="tord right nervous0003" x="2525" y="690" width="375" height="658" frameX="0" frameY="0" frameWidth="382" frameHeight="658"/>
+	<SubTexture name="tord right nervous0004" x="2525" y="690" width="375" height="658" frameX="0" frameY="0" frameWidth="382" frameHeight="658"/>
+	<SubTexture name="tord right nervous0005" x="2525" y="690" width="375" height="658" frameX="0" frameY="0" frameWidth="382" frameHeight="658"/>
+	<SubTexture name="tord right nervous0006" x="2525" y="690" width="375" height="658" frameX="0" frameY="0" frameWidth="382" frameHeight="658"/>
+	<SubTexture name="tord right nervous0007" x="2525" y="690" width="375" height="658" frameX="0" frameY="0" frameWidth="382" frameHeight="658"/>
+	<SubTexture name="tord right nervous0008" x="2525" y="690" width="375" height="658" frameX="0" frameY="0" frameWidth="382" frameHeight="658"/>
+	<SubTexture name="tord right nervous0009" x="2525" y="690" width="375" height="658" frameX="0" frameY="0" frameWidth="382" frameHeight="658"/>
+	<SubTexture name="tord right nervous0010" x="2525" y="690" width="375" height="658" frameX="0" frameY="0" frameWidth="382" frameHeight="658"/>
+	<SubTexture name="tord right nervous0011" x="2525" y="690" width="375" height="658" frameX="0" frameY="0" frameWidth="382" frameHeight="658"/>
+	<SubTexture name="tord right nervous0012" x="2525" y="690" width="375" height="658" frameX="0" frameY="0" frameWidth="382" frameHeight="658"/>
+	<SubTexture name="tord right nervous0013" x="2525" y="690" width="375" height="658" frameX="0" frameY="0" frameWidth="382" frameHeight="658"/>
+	<SubTexture name="tord up nervous0000" x="2910" y="690" width="334" height="692" frameX="-5" frameY="0" frameWidth="348" frameHeight="692"/>
+	<SubTexture name="tord up nervous0001" x="2910" y="690" width="334" height="692" frameX="-5" frameY="0" frameWidth="348" frameHeight="692"/>
+	<SubTexture name="tord up nervous0002" x="3254" y="690" width="348" height="687" frameX="0" frameY="-5" frameWidth="348" frameHeight="692"/>
+	<SubTexture name="tord up nervous0003" x="3254" y="690" width="348" height="687" frameX="0" frameY="-5" frameWidth="348" frameHeight="692"/>
+	<SubTexture name="tord up nervous0004" x="3254" y="690" width="348" height="687" frameX="0" frameY="-5" frameWidth="348" frameHeight="692"/>
+	<SubTexture name="tord up nervous0005" x="3254" y="690" width="348" height="687" frameX="0" frameY="-5" frameWidth="348" frameHeight="692"/>
+	<SubTexture name="tord up nervous0006" x="3254" y="690" width="348" height="687" frameX="0" frameY="-5" frameWidth="348" frameHeight="692"/>
+	<SubTexture name="tord up nervous0007" x="3254" y="690" width="348" height="687" frameX="0" frameY="-5" frameWidth="348" frameHeight="692"/>
+	<SubTexture name="tord up nervous0008" x="3254" y="690" width="348" height="687" frameX="0" frameY="-5" frameWidth="348" frameHeight="692"/>
+	<SubTexture name="tord up nervous0009" x="3254" y="690" width="348" height="687" frameX="0" frameY="-5" frameWidth="348" frameHeight="692"/>
+	<SubTexture name="tord up nervous0010" x="3254" y="690" width="348" height="687" frameX="0" frameY="-5" frameWidth="348" frameHeight="692"/>
+	<SubTexture name="tord up nervous0011" x="3254" y="690" width="348" height="687" frameX="0" frameY="-5" frameWidth="348" frameHeight="692"/>
+	<SubTexture name="tord up nervous0012" x="3254" y="690" width="348" height="687" frameX="0" frameY="-5" frameWidth="348" frameHeight="692"/>
+	<SubTexture name="tord up nervous0013" x="3254" y="690" width="348" height="687" frameX="0" frameY="-5" frameWidth="348" frameHeight="692"/>
+	<SubTexture name="tord up nervous0014" x="3254" y="690" width="348" height="687" frameX="0" frameY="-5" frameWidth="348" frameHeight="692"/>
+</TextureAtlas>

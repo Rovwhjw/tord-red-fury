@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="aerotord_1.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="tordsky down0000" x="1882" y="1145" width="637" height="560"/>
+	<SubTexture name="tordsky down0001" x="1875" y="1707" width="644" height="540"/>
+	<SubTexture name="tordsky down0002" x="1875" y="2253" width="644" height="564"/>
+	<SubTexture name="tordsky idle0000" x="0" y="0" width="618" height="583"/>
+	<SubTexture name="tordsky idle0001" x="631" y="0" width="618" height="583"/>
+	<SubTexture name="tordsky idle0002" x="1260" y="0" width="619" height="583"/>
+	<SubTexture name="tordsky left0000" x="1900" y="0" width="619" height="538"/>
+	<SubTexture name="tordsky left0001" x="1900" y="566" width="619" height="583"/>
+	<SubTexture name="tordsky left0002" x="1247" y="1737" width="622" height="598"/>
+	<SubTexture name="tordsky right0000" x="620" y="1165" width="637" height="583"/>
+	<SubTexture name="tordsky right0001" x="1259" y="1175" width="619" height="583"/>
+	<SubTexture name="tordsky right0002" x="614"/>
+	<SubTexture name="tordsky up0000" x="1254" y="576" width="619" height="583"/>
+	<SubTexture name="tordsky up0001" x="3" y="577" width="619" height="583"/>
+	<SubTexture name="tordsky up0002" x="0" y="1171" width="619" height="583"/>
+</TextureAtlas>

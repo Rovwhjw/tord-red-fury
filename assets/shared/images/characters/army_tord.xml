@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="army_tord.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="tord arrive0000" x="1225" y="353" width="144" height="359"/>
+	<SubTexture name="tord arrive0001" x="1373" y="356" width="144" height="394"/>
+	<SubTexture name="tord arrive0002" x="1373" y="356" width="144" height="430"/>
+	<SubTexture name="tord arrive0003" x="1343" y="782" width="144" height="459"/>
+	<SubTexture name="tord arrive0004" x="1198" y="764" width="144" height="527"/>
+	<SubTexture name="tord arrive0005" x="1068" y="752" width="138" height="590"/>
+	<SubTexture name="tord arrive0006" x="1068" y="752" width="138" height="682"/>
+	<SubTexture name="tord down0000" x="609" y="0" width="214" height="343"/>
+	<SubTexture name="tord down0001" x="814" y="0" width="214" height="343"/>
+	<SubTexture name="tord down0002" x="1021" y="0" width="214" height="343"/>
+	<SubTexture name="tord idle0000" x="605" y="353" width="164" height="368"/>
+	<SubTexture name="tord idle0001" x="768" y="350" width="164" height="368"/>
+	<SubTexture name="tord idle0002" x="917" y="348" width="164" height="368"/>
+	<SubTexture name="tord idle0003" x="1075" y="351" width="159" height="368"/>
+	<SubTexture name="tord left0000" x="520" y="729" width="261" height="367"/>
+	<SubTexture name="tord left0001" x="793" y="743" width="275" height="367"/>
+	<SubTexture name="tord left0002" x="1227" y="0" width="290" height="356"/>
+	<SubTexture name="tord right0000" x="0" y="740" width="175" height="368"/>
+	<SubTexture name="tord right0001" x="173" y="737" width="175" height="368"/>
+	<SubTexture name="tord right0002" x="346" y="744" width="175" height="368"/>
+	<SubTexture name="tord up0000" x="0" y="0" width="196" height="390"/>
+	<SubTexture name="tord up0001" x="198" y="0" width="196" height="390"/>
+	<SubTexture name="tord up0002" x="400" y="0" width="196" height="390"/>
+</TextureAtlas>

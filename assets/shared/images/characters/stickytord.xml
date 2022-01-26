@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="stickytord.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="tord down0000" x="339" y="1298" width="347" height="672"/>
+	<SubTexture name="tord idle0000" x="0" y="1298" width="347" height="672"/>
+	<SubTexture name="tord left0000" x="1079" y="660" width="402" height="651"/>
+	<SubTexture name="tord right0000" x="1079" y="0" width="402" height="651"/>
+	<SubTexture name="tord up0000" x="0" y="0" width="371" height="697"/>
+	<SubTexture name="tord up0001" x="359" y="0" width="371" height="697"/>
+	<SubTexture name="tord up0002" x="722" y="0" width="371" height="697"/>
+</TextureAtlas>
