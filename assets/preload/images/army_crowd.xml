@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="army_crowd.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="army guys instancia 10000" x="0" y="0" width="1319" height="651"/>
+	<SubTexture name="army guys instancia 10001" x="1319" y="0" width="1319" height="651"/>
+	<SubTexture name="army guys instancia 10002" x="2638" y="0" width="1319" height="651"/>
+	<SubTexture name="army guys instancia 10003" x="0" y="651" width="1319" height="651"/>
+	<SubTexture name="army guys instancia 10004" x="1319" y="651" width="1319" height="651"/>
+	<SubTexture name="army guys instancia 10005" x="2638" y="651" width="1319" height="651"/>
+	<SubTexture name="army guys instancia 10006" x="0" y="1302" width="1319" height="651"/>
+	<SubTexture name="army guys instancia 10007" x="0" y="1302" width="1319" height="651"/>
+	<SubTexture name="army guys instancia 10008" x="0" y="1302" width="1319" height="651"/>
+	<SubTexture name="army guys instancia 10009" x="0" y="1302" width="1319" height="651"/>
+	<SubTexture name="army guys instancia 10010" x="0" y="1302" width="1319" height="651"/>
+	<SubTexture name="army guys instancia 10011" x="0" y="1302" width="1319" height="651"/>
+	<SubTexture name="army guys instancia 10012" x="0" y="1302" width="1319" height="651"/>
+	<SubTexture name="army guys instancia 10013" x="0" y="1302" width="1319" height="651"/>
+	<SubTexture name="army guys instancia 10014" x="0" y="1302" width="1319" height="651"/>
+</TextureAtlas>
